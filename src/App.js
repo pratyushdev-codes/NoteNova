@@ -16,7 +16,7 @@ function App() {
       <NoteState>
       <Router>
         <Navbar />
-        <Alert message="Note Updated"/>
+        
         <Banner />
          <div className='container'>
         <Routes>
